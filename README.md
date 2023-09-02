@@ -1,2 +1,2 @@
 ## I'm using gitlab.
-### (Gitlab)[https://gitlab.com/hervtart]
+### [Gitlab](https://gitlab.com/hervtart)
