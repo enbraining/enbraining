@@ -23,3 +23,9 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@hervtart)](https://www.youtube.com/@hervtart)
 
 </div>
+
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hervtart)](https://solved.ac/hervtart/)
+  
+</div>
