@@ -8,7 +8,7 @@
 
 ![Spring Badge](http://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Kotlin Badge](http://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@hervtart)](https://www.youtube.com/@hervtart)
+![JavaScript Badge](http://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 </div>
 
