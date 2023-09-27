@@ -6,9 +6,9 @@
 
 ### Stack
 
-![Spring Badge](http://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Kotlin Badge](http://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![JavaScript Badge](http://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Spring Badge](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![JavaScript Badge](http://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 </div>
 
