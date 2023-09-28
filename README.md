@@ -22,7 +22,7 @@
 [![Medium Badge](http://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&link=https://medium.com/@hervtart)](https://medium.com/@hervtart) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hervtart/)](https://www.linkedin.com/in/hervtart/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@hervtart)](https://www.youtube.com/@hervtart)
-
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&link=https://discord.gg/36tCw3kYuJ )](https://discord.gg/36tCw3kYuJ )
 </div>
 
 <div align=center>
