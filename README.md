@@ -4,7 +4,6 @@
 
 </div>
 
-<div style="display: inline">
   <div align=center>
   
   ### Stack
@@ -25,7 +24,6 @@
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@hervtart)](https://www.youtube.com/@hervtart)
   [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/36tCw3kYuJ)](https://discord.gg/36tCw3kYuJ )
   </div>
-</div>
 
 <div align=center style="display: inline">
 
