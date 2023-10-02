@@ -27,6 +27,6 @@
 
 <div align=center style="display: inline">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hervtart)](https://solved.ac/hervtart/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)](https://solved.ac/6283hz/)
   
 </div>
