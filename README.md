@@ -12,6 +12,7 @@
   ![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
   ![Terraform Badge](http://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white)
   ![C Badge](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
+  ![Assembly Badge](http://img.shields.io/badge/-Assembly-0071C5?style=flat-square&logo=Intel&logoColor=white)
   
   </div>
   
