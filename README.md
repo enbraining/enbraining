@@ -16,7 +16,7 @@
 
   ### I want
 
-  ![Next.js Badge](http://img.shields.io/badge/-Next.js-6DB33F?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Next.js Badge](http://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   
   </div>
 
