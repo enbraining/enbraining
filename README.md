@@ -5,10 +5,6 @@
 </div>
 
   <div align=center>
-
-  <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Java,Kotlin,Javascript&frameworks=Spring&libraries=jQuery&software-ides=Linux,Windows,VSCode&tools=Docker&includeNames=true&themes=material" />
-</div>
     
   ### Stack
   
