@@ -11,7 +11,7 @@
   ![Spring Badge](http://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   ![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![Assembly Badge](http://img.shields.io/badge/-Assembly-0071C5?style=for-the-badge&logo=Intel&logoColor=white)
-  ![Javascript Badge](http://img.shields.io/badge/-JS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Javascript Badge](http://img.shields.io/badge/-JS&TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
   ### I want
 
