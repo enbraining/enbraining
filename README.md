@@ -12,7 +12,7 @@
   ![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![Terraform Badge](http://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white)
   ![Assembly Badge](http://img.shields.io/badge/-Assembly-0071C5?style=for-the-badge&logo=Intel&logoColor=white)
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" />
+  ![Javascript Badge](http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   
   </div>
 
