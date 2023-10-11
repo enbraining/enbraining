@@ -5,7 +5,11 @@
 </div>
 
   <div align=center>
-  
+
+  <div align="center">
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Java,Kotlin,Javascript&frameworks=ReactJS,Flutter,Bootstrap,TailwindCSS,ExpressJS,SvelteJS&libraries=Tensorflow,jQuery&software-ides=Linux,Windows,VSCode&tools=Git,Docker,NPM,Yarn,Firebase,MongoDB,NodeJS,Apache,AWS,Jupyter,Gradle,Prettier&includeNames=true&themes=material" />
+</div>
+    
   ### Stack
   
   ![Spring Badge](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
