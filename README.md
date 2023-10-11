@@ -13,6 +13,10 @@
   ![Terraform Badge](http://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white)
   ![Assembly Badge](http://img.shields.io/badge/-Assembly-0071C5?style=for-the-badge&logo=Intel&logoColor=white)
   ![Javascript Badge](http://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+  ### I want
+
+  ![Next.js Badge](http://img.shields.io/badge/-Next.js-6DB33F?style=for-the-badge&logo=next.js&logoColor=white)
   
   </div>
 
