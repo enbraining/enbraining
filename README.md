@@ -24,6 +24,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
-[![Solved.ac Profile](https://leetcode.card.workers.dev/?username=6283hz)]()
-  
 </div>
