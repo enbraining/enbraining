@@ -27,9 +27,8 @@
 </div>
 
 <div align=center>
-
-### Preview
 <hr>
+### Preview
 
 ![](./image.png)
   
