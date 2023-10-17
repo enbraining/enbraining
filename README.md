@@ -25,12 +25,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
 </div>
-
-<div align=center>
-<hr>
-  
-### Preview
-
-![](./image.png)
-  
-</div>
