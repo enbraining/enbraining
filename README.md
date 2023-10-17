@@ -1,10 +1,4 @@
 <div align=center>
-  
-## Backend developer
-
-</div>
-
-  <div align=center>
     
   ### Stack
   
