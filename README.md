@@ -5,8 +5,6 @@
   ![Assembly Badge](http://img.shields.io/badge/-Assembly-0071C5?style=for-the-badge&logo=Intel&logoColor=white)
   ![React Badge](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-<hr>
-
   </div>
 
 <div align=center>
