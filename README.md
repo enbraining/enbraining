@@ -13,4 +13,4 @@
 
 </div>
 
-<script src="https://gist.github.com/6283hz/e6c1c847b1b6e62085834cd4113ec299.js"></script>
+<script src="https://gist.github.com/6283hz/BOJ.md"></script>
