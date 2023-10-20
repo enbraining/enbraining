@@ -12,3 +12,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)](https://solved.ac/en/profile/6283hz)
 
 </div>
+
+<script src="https://gist.github.com/6283hz/e6c1c847b1b6e62085834cd4113ec299.js"></script>
