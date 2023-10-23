@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main>
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="border-4 border-indigo-200 border-t-indigo-500">
         <p className="p-30">김동학</p>
       </div>
