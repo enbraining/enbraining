@@ -16,7 +16,7 @@
     return (
       <main className="flex min-h-screen flex-col items-center justify-between p-24 align-middle">
         
-<div className="p-10 shadow-2xl rounded-2xl">
+<div className="p-20 shadow-2xl rounded-2xl">
     <div className="mb-4 text-center opacity-90">
     </div>
     <div className="text-center">
