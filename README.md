@@ -6,9 +6,3 @@
   ![React Badge](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
   </div>
-
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
-
-</div>
