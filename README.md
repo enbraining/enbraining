@@ -4,7 +4,7 @@
   ![Kotlin Badge](http://img.shields.io/badge/-50/100-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![NextJs Badge](http://img.shields.io/badge/-15/100-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Cpp Badge](http://img.shields.io/badge/-10/100-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
-  <div font-size=5%>
+  <div font-size=10px>
   
   > 위의 버튼들은 누르면 배울 때 사용한 자료 등을 확인하실 수 있습니다.
   
