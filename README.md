@@ -7,6 +7,8 @@
   ![NextJs Badge](http://img.shields.io/badge/-15/100-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Cpp Badge](http://img.shields.io/badge/-10/100-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+  </hr>
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
   </div>
