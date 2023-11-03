@@ -5,6 +5,7 @@
   #### Level 4
   
   #### Level 3
+  ![Third Badge](http://img.shields.io/badge/-Level.3-2da11b?style=for-the-badge) 
   ![Cpp Badge](http://img.shields.io/badge/-C++-2da11b?style=for-the-badge&logo=cplusplus&logoColor=white) 
 
   #### Level 2
