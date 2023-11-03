@@ -1,5 +1,7 @@
 <div align=center>
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
+  
   ### Level 4
   
   ### Level 3
@@ -13,6 +15,4 @@
   ![Rust Badge](http://img.shields.io/badge/-Rust-ed2633?style=for-the-badge&logo=rust&logoColor=white) 
   ![Terraform Badge](http://img.shields.io/badge/-Terraform-ed2633?style=for-the-badge&logo=terraform&logoColor=white)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
-
 </div>
