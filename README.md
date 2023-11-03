@@ -7,7 +7,7 @@
 
   ![Second Badge](http://img.shields.io/badge/-Level.2-000000?style=for-the-badge) 
   ![Kotlin Badge](http://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) 
-  ![Spring Badge](http://img.shields.io/badge/-Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+  ![Spring Badge](http://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
   ![First Badge](http://img.shields.io/badge/-Level.1-000000-style=for-the-badge) 
   ![Rust Badge](http://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
