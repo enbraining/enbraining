@@ -1,5 +1,6 @@
 <div align=center>
 
+|status|skill|
 |---|---|
 |complete|![C Badge](http://img.shields.io/badge/-C-2da11b?style=for-the-badge&logo=C&logoColor=white)|
 |application|![Kotlin Badge](http://img.shields.io/badge/-Kotlin-ed9a26?style=for-the-badge&logo=Kotlin&logoColor=white) ![Spring Badge](http://img.shields.io/badge/-Spring-ed9a26?style=for-the-badge&logo=Spring&logoColor=white)|
