@@ -1,5 +1,7 @@
 <div align=center>
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
+  
   ### Complete 🟢
 
   ### Application 🟡
@@ -9,8 +11,5 @@
   ### Beginner 🔴
   ![Cpp Badge](http://img.shields.io/badge/-C++-ed2633?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Terraform Badge](http://img.shields.io/badge/-Terraform-ed2633?style=for-the-badge&logo=terraform&logoColor=white)
-
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
   </div>
