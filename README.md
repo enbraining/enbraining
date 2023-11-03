@@ -1,5 +1,9 @@
 <div align=center>
 
+|status|skill|
+|---|---|
+|complete|![C Badge](http://img.shields.io/badge/-C-2da11b?style=for-the-badge&logo=C&logoColor=white)|
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
   
   ### Complete 🟢
