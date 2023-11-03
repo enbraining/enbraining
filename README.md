@@ -3,7 +3,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
   
   ### Complete 🟢
-  ![C Badge](http://img.shields.io/badge/-C-37d11f?style=for-the-badge&logo=Kotlin&logoColor=white)
+  ![C Badge](http://img.shields.io/badge/-C-2da11b?style=for-the-badge&logo=C&logoColor=white)
 
   ### Application 🟡
   ![Kotlin Badge](http://img.shields.io/badge/-Kotlin-ed9a26?style=for-the-badge&logo=Kotlin&logoColor=white)
