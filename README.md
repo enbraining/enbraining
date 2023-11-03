@@ -1,9 +1,4 @@
-<style>
-  div . {
-    align: left;
-  }
-</style>
-<div align=center>
+<div align=center style="div . { align: left; }">
 
   ![C Badge](http://img.shields.io/badge/-C-2da11b?style=for-the-badge&logo=C&logoColor=white)
   
