@@ -9,12 +9,4 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
----
-
-<a href="https://discord.gg/36tCw3kYuJ" target="_blank">
-		<img 
-		     alt="Xolving" 
-		     src="https://img.shields.io/discord/1037667930411892736?color=%235865F2&label=discord&logo=discord&style=for-the-badge&labelColor=5865F2&logoColor=ffffff" />
-	</a>
-
 </div>
