@@ -1,6 +1,6 @@
 <div align=center>
 
-### 밥 [50~]
+### 밥 [51~]
 
 ![Kotlin Badge](http://img.shields.io/badge/-55/100-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) 
 ![Spring Badge](http://img.shields.io/badge/-45/100-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
