@@ -1,6 +1,6 @@
 <div align=center>
 
-[![6283hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=6283hz)](https://github.com/6283hz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6283hz&langs-count=10&layout=compact)]()
   
 ---
   
