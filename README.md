@@ -7,10 +7,11 @@
 
 ### Cookie [0~50]
 
-![Cpp Badge](http://img.shields.io/badge/-11/100-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Terraform Badge](http://img.shields.io/badge/-7/100-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Elixir Badge](http://img.shields.io/badge/-5/100-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Flutter Badge](http://img.shields.io/badge/-5/100-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Cpp Badge](http://img.shields.io/badge/-1.5/100-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Terraform Badge](http://img.shields.io/badge/-6/100-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Elixir Badge](http://img.shields.io/badge/-1.5/100-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Flutter Badge](http://img.shields.io/badge/-4/100-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Badge](http://img.shields.io/badge/-9/100-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6283hz)]()
 
