@@ -21,6 +21,7 @@
 ![Elixir Badge](http://img.shields.io/badge/-1.5/100-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Flutter Badge](http://img.shields.io/badge/-4/100-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Badge](http://img.shields.io/badge/-9/100-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![ReactiveX Badge](http://img.shields.io/badge/-1/100-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ---
 
