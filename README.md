@@ -9,12 +9,12 @@
 
 <div align=center>
 
-### expert [51~]
+### breakfast [51~]
 
 ![Kotlin Badge](http://img.shields.io/badge/-55/100-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) 
 ![Spring Badge](http://img.shields.io/badge/-53/100-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
-### beginner [0~50]
+### snack [0~50]
 
 ![Cpp Badge](http://img.shields.io/badge/-1/100-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![Terraform Badge](http://img.shields.io/badge/-6/100-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
