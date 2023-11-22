@@ -22,7 +22,7 @@
 ![Flutter Badge](http://img.shields.io/badge/-4/100-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Badge](http://img.shields.io/badge/-9/100-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ReactiveX Badge](http://img.shields.io/badge/-1/100-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![tailwindCss Badge](http://img.shields.io/badge/-1/100-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![tailwindCss Badge](http://img.shields.io/badge/-28/100-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
