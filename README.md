@@ -11,5 +11,3 @@
 ### snack [0~59]
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,react)](https://skillicons.dev)
-
-![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=enbraining)
