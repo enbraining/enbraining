@@ -5,6 +5,8 @@
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
+[![My Skills](https://skillicons.dev/icons?i=html,ts,spring,kotlin)](https://skillicons.dev)
+
 ---
 
 <div align=center>
