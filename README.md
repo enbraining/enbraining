@@ -1,4 +1,4 @@
-### 👋 Backend Developer
+### 👋 var Developer
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=enbraining)](https://solved.ac/enbraining})
