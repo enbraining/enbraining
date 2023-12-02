@@ -1,7 +1,6 @@
 ### 👋 var Developer
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=enbraining)](https://solved.ac/enbraining})
+[![profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=enbraining)](https://solved.ac/enbraining})
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
@@ -10,4 +9,4 @@
 
 ### snack [0~59]
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor)](https://skillicons.dev)
