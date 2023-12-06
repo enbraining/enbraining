@@ -3,7 +3,7 @@
 새로운 것을 추구하며, 숨겨진 어떤 요소를 찾는 것이 재미있습니다. 
 남들과 소통하며 얻는 새로운 지식을 경험하고, 공유하며 성장합니다.
 
-[![profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=6283hz)](https://solved.ac/enbraining})
+[![profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=hervtart)](https://solved.ac/enbraining})
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
