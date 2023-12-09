@@ -14,5 +14,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor,python,vite)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enbraining&row=6&column=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enbraining&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
