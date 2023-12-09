@@ -16,4 +16,4 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enbraining&row=2&column=5&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enbraining&row=3&column=3&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
