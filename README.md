@@ -13,7 +13,3 @@
 ### snack [0~59]
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor,python,vite)](https://skillicons.dev)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=enbraining&row=2&column=4&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
