@@ -10,6 +10,6 @@
 ### 전공 [60~]
 [![My Skills](https://skillicons.dev/icons?i=spring,kotlin,react,linux)](https://skillicons.dev)
 
-### 쬐끔 [0~59]
+### 리를빗 [0~59]
 
 [![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs)](https://skillicons.dev)
