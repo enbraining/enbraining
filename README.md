@@ -12,4 +12,4 @@
 
 ### snack [0~59]
 
-[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs)](https://skillicons.dev)
