@@ -7,9 +7,9 @@
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
-### 전공 [60~]
+### 아이 캔 두잇 [60~]
 [![My Skills](https://skillicons.dev/icons?i=spring,kotlin,react,linux)](https://skillicons.dev)
 
 ### 어 리를 빗 [0~59]
 
-[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs,figma,zig)](https://skillicons.dev)
