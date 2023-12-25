@@ -12,4 +12,4 @@
 
 ### 어 리를 빗 [0~59]
 
-[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs,figma,zig,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs,figma,zig,grafana,cloudflare)](https://skillicons.dev)
