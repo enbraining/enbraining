@@ -7,6 +7,8 @@
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
+> 2023년에 시작해서 꾸준히 코딩 중입니다.
+
 #### 블록체인을 배우고 있습니다. [10%]
 [![My Skills](https://skillicons.dev/icons?i=go,solidity)](https://skillicons.dev)
 
