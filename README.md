@@ -16,9 +16,11 @@
 ### 데브옵스를 공부하고 있습니다. [25%]
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,grafana,cloudflare)](https://skillicons.dev)
 
-### 서버만 만들면 재미가 없죠 [30%]
+### 서버만 만들면 재미가 없죠. [30%]
 [![My Skills](https://skillicons.dev/icons?i=react,ts,next)](https://skillicons.dev)
 
-### 어 리를 빗 [0~59]
+### AI는 관심만 있습니다. [5%]
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=next,elixir,cpp,ktor,python,aws,nginx,nestjs,figma,zig,grafana,cloudflare)](https://skillicons.dev)
+### 다른 것도 해보고 있어요.
+[![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor,nestjs,figma,zig)](https://skillicons.dev)
