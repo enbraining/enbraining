@@ -7,6 +7,9 @@
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
+### 블록체인에 관심이 있습니다.
+[![My Skills](https://skillicons.dev/icons?i=go,solidity)](https://skillicons.dev)
+
 ### 아이 캔 두잇 [60~]
 [![My Skills](https://skillicons.dev/icons?i=spring,kotlin,react,linux,ts)](https://skillicons.dev)
 
