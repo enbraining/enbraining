@@ -7,16 +7,16 @@
 
 [포폴보실](https://www.figma.com/community/file/1307687825033306040)
 
-### 블록체인을 배우고 있습니다.
+### 블록체인을 배우고 있습니다. [10%]
 [![My Skills](https://skillicons.dev/icons?i=go,solidity)](https://skillicons.dev)
 
-### 스프링을 이용해 서버를 개발합니다.
+### 스프링을 이용해 서버를 개발합니다. [45%]
 [![My Skills](https://skillicons.dev/icons?i=spring,kotlin,linux,java,nginx)](https://skillicons.dev)
 
-### 데브옵스를 공부하고 있습니다.
+### 데브옵스를 공부하고 있습니다. [25%]
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,grafana,cloudflare)](https://skillicons.dev)
 
-### 서버만 만들면 재미가 없죠
+### 서버만 만들면 재미가 없죠 [30%]
 [![My Skills](https://skillicons.dev/icons?i=react,ts,next)](https://skillicons.dev)
 
 ### 어 리를 빗 [0~59]
