@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 #### 다른 것도 해보고 있어요.
-[![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor,nestjs,figma,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,cpp,ktor,nestjs,figma,zig,astro)](https://skillicons.dev)
