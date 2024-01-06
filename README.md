@@ -10,4 +10,4 @@
 > 2023년에 시작해서 꾸준히 코딩 중입니다.
 
 #### 메인 관심사
-[![My Skills](https://skillicons.dev/icons?i=go,kotlin,spring,nginx,cloudflare,grafana,docker,aws,astro,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,kotlin,spring,nginx,cloudflare,grafana,docker,aws,astro,python,cpp,java)](https://skillicons.dev)
