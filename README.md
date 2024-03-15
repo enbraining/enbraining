@@ -3,4 +3,4 @@
 I like game, frontend, backend, etc... development
 ---
 
-[![Enbraining's GitHub stats](https://github-readme-stats.vercel.app/api?username=enbraining)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://www.codenary.co.kr/widget/github/api?username=enbraining)](https://www.codenary.co.kr/user-profile/detail/enbraining?github_ride=true&utm_source=github)
