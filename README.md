@@ -1,1 +1,1 @@
-![enbraining's github stats](https://github-readme-stats.vercel.app/api?username=enbraining)
+<img src="https://myreadme.vercel.app/api/embed/enbraining?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
