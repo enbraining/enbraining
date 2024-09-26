@@ -1,1 +1,1 @@
-<img src="https://myreadme.vercel.app/api/embed/enbraining?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Skill](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,redis,haskell,nodejs,nestjs,cpp,react,nextjs,ts,nginx&theme=dark) 
